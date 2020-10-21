@@ -1,0 +1,41 @@
+.black {
+    background: black;
+    width: 810px;
+    height: 510px;
+}
+.container {
+    width: auto;
+    height: auto;
+    padding: 5px;
+}
+.orange {
+    background: darkorange;
+    width: 800px;
+    height: 100px;
+    clear: both;
+}
+.red {
+    background: red;
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+.green {
+    background: green;
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+.blue {
+    background: dodgerblue;
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+.two_black {
+    background: black;
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+
